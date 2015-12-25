@@ -1,1 +1,6 @@
 # Dota2-VMDL-Hitbox-Adder
+Automatically adds Cube.dmx to boneless models while preserving the model's meshes. Just copy/pasting the pastebin would override the meshes, and I have a lot of boneless models that need hitboxes.
+
+Drag and drop files into the white box in the program. I set it up to ignore everything that isn't a .vmdl so that I could just box everything and have it work.
+
+Use this program at your own risk, I am not liable for anything... 
